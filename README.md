@@ -4,7 +4,7 @@ This project demonstrates the setup of **VPC-to-VPC peering** using the AWS Mana
 
 ## 🧱 Architecture
 
-![Architecture](architecture.png)
+![Architecture](ARFINAL.png)
 
 - **Test VPC (10.0.0.0/16)** – Includes public & private subnets
 - **Prod VPC (192.168.0.0/16)** – Public subnet with EC2 instance
