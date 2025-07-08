@@ -18,7 +18,7 @@ This project demonstrates how to set up **secure communication between two Virtu
 
 ## 🧱 Architecture Diagram
 
-![VPC Peering Architecture](architecture/ARFINAL.png)
+![VPC Peering Architecture](Architecture/ARFINAL.png)
 
 ---
 
